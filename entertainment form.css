@@ -1,0 +1,31 @@
+*{align-item:center
+  justify-content:center
+  
+  
+}
+.a{color:blue;
+   cursor:pointer:
+   font-family:sanselif;
+   font-weight:bold;
+   font-size:120;
+   
+  
+}
+.soso{background-color:green;
+      color:grey;
+      height:120px;
+      width:120px;
+      border-radius:120px;
+      display:flex;
+      box-shadow:120px
+      text-align:center;
+  
+}
+.b{ box-shadow:110px;
+  font-family:sanselif;
+  color:black;
+  align-item:center;
+  justify-content:center;
+  border-radius:12px;
+  background-color:white
+}
